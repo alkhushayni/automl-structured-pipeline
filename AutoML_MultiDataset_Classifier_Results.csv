@@ -1,0 +1,13 @@
+Dataset,Model,Accuracy,Precision,Recall,F1 Score
+Heart,Random Forest,99.03,99.04,99.03,99.03
+Heart,Decision Tree,97.08,97.23,97.08,97.07
+Heart,KNN,84.74,84.79,84.74,84.74
+Heart,Logistic Regression,80.52,81.12,80.52,80.48
+Heart,Naive Bayes,81.49,82.44,81.49,81.42
+Heart,SVM,89.94,90.09,89.94,89.94
+Adult,Random Forest,90.93,88.39,90.93,89.16
+Adult,Decision Tree,99.07,99.04,99.07,99.01
+Adult,KNN,67.2,56.67,67.2,59.97
+Adult,Logistic Regression,62.87,42.27,62.87,50.19
+Adult,Naive Bayes,97.8,97.43,97.8,97.42
+Adult,SVM,81.07,70.38,81.07,75.1
